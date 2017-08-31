@@ -1,5 +1,5 @@
 # Tabchi V1.0
-ادیت شده توسط تله گیمر
+#HsamDew :ادیت شده توسط
 
 ## نحوه نصب
 ```bash
@@ -23,9 +23,8 @@ Run : ./tabchi-0.sh
 ./tabchi-id.sh
 دریافت کردید بزنید(Auto Detected Tabchi ID)ایدی که در قسمت(id)را باید بزنید که به جای
 
-## روشن بودن خودکار
-برای اتو لانج یا روشن بودن خودکار دستور زیر را وارد کنید در پوشه تبچی
-./telegamer.sh
+## اتولانچ
+screen ./tabchi-0.sh
 
-#### channel      [te1egamer](https://telegram.me/te1egamer)
+#### channel      [HsamDew](https://telegram.me/HsamDew)
 
