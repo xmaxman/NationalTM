@@ -24,7 +24,11 @@ Run : ./tabchi-0.sh
 دریافت کردید بزنید(Auto Detected Tabchi ID)ایدی که در قسمت(id)را باید بزنید که به جای
 
 ## اتولانچ
-screen ./tabchi-0.sh
+<code>screen ./tabchi-0.sh</code>
 
-#### channel      [HsamDew](https://telegram.me/HsamDew)
+
+#### channell     [Cyber_Sat](https://telegram.me/Cyber_Sat)
+
+
+## Editor         [HsamDew](http://telegram.me/HsamDew)
 
